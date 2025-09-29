@@ -116,7 +116,7 @@ Some projects (games, bots, or web apps) may have additional instructions inside
 
 ---
 
-## 👨‍💻 About the Author
+## 👨‍💻 About the Author 
 
 **Afaq Ul Islam** – _Full Stack AI Web Developer_
 
