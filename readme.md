@@ -129,7 +129,7 @@ Some projects (games, bots, or web apps) may have additional instructions inside
 
 - [LinkedIn](https://www.linkedin.com/in/afaqulislam)
 - [GitHub](https://github.com/afaqulislam)
-- [Portfolio](https://aui-portfolio.vercel.app)
+- [Portfolio](https://afaqulislam.github.io)
 
 ---
 
