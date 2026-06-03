@@ -1,0 +1,14 @@
+streamlit
+pygame
+numpy
+qrcode
+opencv-python
+requests
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+markovify
+python-dotenv
+discord.py
+beautifulsoup4
+pint
+Pillow
